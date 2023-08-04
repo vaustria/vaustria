@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![vaustria GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Vicente GitHub stats](https://github-readme-stats.vercel.app/api?username=vaustria&show_icons=true&theme=transparent)
